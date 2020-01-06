@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mike0906/Test%20Java%20project/_apis/build/status/mikenelson-io.pipelines-java?branchName=master)](https://dev.azure.com/mike0906/Test%20Java%20project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
